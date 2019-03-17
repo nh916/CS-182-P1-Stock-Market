@@ -1,0 +1,16 @@
+1,000 is in sample
+
+the data file goes inside the second constructor
+	to initialize it and open and read the data file so you must need to know the name otherwise youre gonna have a hard time openning the file
+
+	doing reading in sample
+
+inheritance is better approach than having inheritance
+
+where should we put the sample declaration
+
+1 toString that reports the statistics of the whole trial
+	sample holds a thousand trials
+	the tostring describes
+
+1,000 trials are supposed to be in sample
